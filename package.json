@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.6",
+    "@types/tmp": "^0.2.6",
+    "express": "^4.21.2",
+    "puppeteer": "^24.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "tmp": "^0.2.3",
+    "yargs": "^17.7.2"
+  }
+}

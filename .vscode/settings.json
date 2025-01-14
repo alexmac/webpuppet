@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "editor.fontLigatures": "'ss02', 'zero'",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.suggest.html5": true,
+  "html.format.preserveNewLines": true,
+  "eslint.enable": false,
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  }
+}
